@@ -37,7 +37,6 @@ Membentuk data modeling dari dataset dengan menentukan dim dan fact table, kemud
 ## Final Project RMT-021-Group-001
 - Felix Ferdinand Laureng
 - Anton Sujono
-- Nur Nubli Muhamad
 - Rolando Krisnanto
 - Siti Sartika Hardiyanti
 
